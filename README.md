@@ -22,5 +22,5 @@ ${\color{#4b3852} my \space}$
 
 ${\space}$
 
-<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/735e7cf3-feea-49b0-adec-ce3062b23b30" />
+<img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/735e7cf3-feea-49b0-adec-ce3062b23b30" />
 

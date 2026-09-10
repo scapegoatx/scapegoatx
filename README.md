@@ -22,7 +22,6 @@ ${\color{#4b3852} my \space}$
 
 ${\space}$
 
-<img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/920cab0a-9247-4519-b8b1-0f0cb9a35c73" />
-
+<img width="140" height="100" alt="image" src="https://github.com/user-attachments/assets/2b1d6c6d-fdec-45b6-b11b-27b91f1b0011" />
 
 

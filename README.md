@@ -10,7 +10,7 @@ ${\color{#d9d2bd} behind \space you \space}$
 
 ${\space}$
 
-<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/e62239a4-ec28-4e67-a50a-676a9070fa60" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/e62239a4-ec28-4e67-a50a-676a9070fa60" />
 
 ${\color{#b74a84} ───────────୨ৎ─────────── }$
 

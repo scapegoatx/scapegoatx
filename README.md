@@ -2,7 +2,7 @@
 
 ${\space}$
 
-${\color{#b74a84} ( ˶°ㅁ°) !! \space}$
+${\color{#b74a84} ( \space ˶°ㅁ°) \space !! \space}$
 
 ${\color{#d9d2bd} mamma \space a \space}$ 
 ${\color{#b74a84} man \space}$

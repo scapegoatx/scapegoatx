@@ -2,6 +2,8 @@
 
 ${\space}$
 
+${\color{#b74a84} ( ˶°ㅁ°) !! \space}$
+
 ${\color{#d9d2bd} mamma \space a \space}$ 
 ${\color{#b74a84} man \space}$
 ${\color{#d9d2bd} behind \space you \space}$ 

@@ -5,8 +5,8 @@
 
 ${\space}$
 
-${\color{#b44e33} sign \space}$ 
-${\color{#928950} my \space}$
+${\color{#dad9cb} sign \space}$ 
+${\color{#4b3852} my \space}$
 [atab](https://kiribaku.atabook.org/)
 
 ${\space}$

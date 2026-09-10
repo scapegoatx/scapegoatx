@@ -12,6 +12,7 @@ ${\space}$
 
 <img width="1200" height="879" alt="image" src="https://github.com/user-attachments/assets/e62239a4-ec28-4e67-a50a-676a9070fa60" />
 
+${\color{#b74a84} ────────────────୨ৎ──────────────── }$
 
 ${\space}$
 
